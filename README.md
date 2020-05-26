@@ -1,4 +1,4 @@
-For use with OLA-front
+For use with OLA-back
 
 Gives the basic understanding of interfacing with the developing OLA-front repo.
 Also useful for testing OLA-front.
